@@ -3,7 +3,6 @@
 [![GitHub license](https://img.shields.io/github/license/jbox-web/redmine_bootstrap_kit.svg)](https://github.com/jbox-web/redmine_bootstrap_kit/blob/devel/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/jbox-web/redmine_bootstrap_kit.svg)](https://github.com/jbox-web/redmine_bootstrap_kit/releases/latest)
 [![Code Climate](https://codeclimate.com/github/jbox-web/redmine_bootstrap_kit.png)](https://codeclimate.com/github/jbox-web/redmine_bootstrap_kit)
-[![Dependency Status](https://gemnasium.com/jbox-web/redmine_bootstrap_kit.svg)](https://gemnasium.com/jbox-web/redmine_bootstrap_kit)
 
 ### A Redmine plugin which makes developing your own Redmine plugin easy ;)
 
@@ -18,9 +17,9 @@ It provides :
 * [jQuery FileTree](https://github.com/daverogers/jQueryFileTree)
 * [jQuery TagIt](http://aehlke.github.io/tag-it/)
 * [jQuery UI Bootstrap 0.5](http://jquery-ui-bootstrap.github.io/jquery-ui-bootstrap/) - 2014-04-19
-* [FontAwesome 4.3.0](http://fortawesome.github.io/Font-Awesome/)
+* [FontAwesome 4.7.0](http://fortawesome.github.io/Font-Awesome/)
 * [Highcharts 4.1.4](https://github.com/highslide-software/highcharts.com)
-* [ZeroClipboard 2.2.0](https://github.com/zeroclipboard/zeroclipboard)
+* [ZeroClipboard 2.3.0](https://github.com/zeroclipboard/zeroclipboard)
 * [Bootstrap Notify](https://github.com/mouse0270/bootstrap-notify)
 
 And a set of various Rails helper methods (see below).
